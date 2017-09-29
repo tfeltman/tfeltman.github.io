@@ -1,0 +1,12 @@
+body {
+color: darkgray;
+font-size: 14pt;
+font-family: 'Oxygen', sans-serif;
+}
+h1 { font-size: 200%;
+	color: turquoise;
+	}
+h2 { font-size: 130%; font-style: italic;
+}
+
+
