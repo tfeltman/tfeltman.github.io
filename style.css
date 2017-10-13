@@ -1,12 +1,20 @@
-body {
-color: darkgray;
+body { background: lightgreen;
+color: midnightblue;
 font-size: 14pt;
 font-family: 'Oxygen', sans-serif;
 }
-h1 { font-size: 200%;
+h1 { font-size: 300%;
 	color: turquoise;
 	}
-h2 { font-size: 130%; font-style: italic;
+h2 { font-size: 150%; font-style: italic;
 }
 
+nav li { display: inline-block }
+nav li { border: 2px solid black }
+h2 {border-left: 10px solid blue }
 
+nav li {padding: 10px;
+		margin: 5px;
+		background: white }
+		
+		
